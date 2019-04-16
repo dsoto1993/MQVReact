@@ -1,9 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import 'normalize.css/normalize.css';
-import './styles/styles.scss';
+import './assets/styles.scss';
+import './assets/materialize.scss';
+import VirtualMakeup from './components/VirtualMakeup';
+
 
 console.log('Hello');
 
-ReactDOM.render(<p>Maquillador virtual</p>, document.getElementById('app'));
+ReactDOM.render(<VirtualMakeup />, document.getElementById('app'));
 

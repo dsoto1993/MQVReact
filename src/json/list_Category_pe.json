@@ -1,0 +1,58 @@
+[
+    {
+        "id": 21,
+        "name": "Labiales",
+        "image": "https:\/\/belc-virtualmakeup-data-qas.s3.amazonaws.com\/imagenes\/labial.png",
+        "order": 1,
+        "status": true,
+        "country": "PE"
+    },
+    {
+        "id": 22,
+        "name": "M\u00e1scaras",
+        "image": "https:\/\/belc-virtualmakeup-data-qas.s3.amazonaws.com\/imagenes\/mascara.png",
+        "order": 2,
+        "status": true,
+        "country": "PE"
+    },
+    {
+        "id": 24,
+        "name": "Sombras",
+        "image": "https:\/\/belc-virtualmakeup-data-qas.s3.amazonaws.com\/imagenes\/sombras.png",
+        "order": 3,
+        "status": true,
+        "country": "PE"
+    },
+    {
+        "id": 17,
+        "name": "Base",
+        "image": "https:\/\/belc-virtualmakeup-data-qas.s3.amazonaws.com\/imagenes\/base.png",
+        "order": 4,
+        "status": true,
+        "country": "PE"
+    },
+    {
+        "id": 18,
+        "name": "Polvos",
+        "image": "https:\/\/belc-virtualmakeup-data-qas.s3.amazonaws.com\/imagenes\/polvos.png",
+        "order": 5,
+        "status": true,
+        "country": "PE"
+    },
+    {
+        "id": 20,
+        "name": "Delineador",
+        "image": "https:\/\/belc-virtualmakeup-data-qas.s3.amazonaws.com\/imagenes\/delineador.png",
+        "order": 6,
+        "status": true,
+        "country": "PE"
+    },
+    {
+        "id": 23,
+        "name": "Rubor",
+        "image": "https:\/\/belc-virtualmakeup-data-qas.s3.amazonaws.com\/imagenes\/rubor.png",
+        "order": 8,
+        "status": true,
+        "country": "PE"
+    }
+]

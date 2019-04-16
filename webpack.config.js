@@ -10,7 +10,7 @@ module.exports = {
   module: {
     rules: [{
       loader: 'babel-loader',
-      test: /\.js$/,
+      test: /\.(js|jsx)$/,
       exclude: /node_modules/
     }, {
       test: /\.s?css$/,
@@ -19,7 +19,11 @@ module.exports = {
         'css-loader',
         'sass-loader'
       ]
-    }]
+    }, {
+      test: /\.json$/,
+      loader: 'json-loader'
+    }
+    ]
   },
   devtool: 'cheap-module-eval-source-map',
   devServer: {
